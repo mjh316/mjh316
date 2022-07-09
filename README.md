@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @mjh316
-- 👀 I’m interested in algorithms, web development, and systems engineering.
-- 🌱 I’m currently **taking a break**, reviewing Python and Vlang code.
-- 💞️ I’m open to collaborate on any of the above, but would not mind taking a peek at anything else!
+- 👋 Hi, I’m @mjh316, a secondary school student looking for enjoyment in computers.
+- 🌱 I’m interested in algorithms, web development, and systems engineering.
 
 <!---
 mjh316/mjh316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
