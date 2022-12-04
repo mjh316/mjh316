@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mjh316, a secondary school student looking for enjoyment in computing.
+- 👋 Hi, I’m @mjh316, a secondary school student interested in *software*.
 - 🌱 I’m interested in algorithms, web development, and systems engineering.
 
 <!---
